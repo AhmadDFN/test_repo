@@ -1,0 +1,7 @@
+{
+  "name": "expCafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
